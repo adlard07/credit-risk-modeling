@@ -1,0 +1,4 @@
+data_streaming/.env
+venv
+*/artifacts
+*/__pycache__
